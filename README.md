@@ -1,11 +1,11 @@
 ### Olá Mundo! Meu nome é Gabriel Ropke.
 
 
-- 🔭 I’m currently working on management
-- 🌱 I’m currently learning HTML and CSS
-- 👯 Pooking for opportunity in the market.
-- 📫 How to reach me: ropke2020@gmail.com or @gabrielropke in instagram
-- ⚡ Fun fact: I am fascinated by the programming area, it makes me curious just thinking about what I can create whenever I learn a new language!
+- 🔭 Atualmente estou trabalhando na gestão
+- 🌱 Estou estudando no momento HTML e CSS
+- 👯 Busco oportunidades no mercado.
+- 📫 Como me contatar: ropke2020@gmail.com ou @gabrielropke no instagram
+- ⚡ Curiosidade: sou fascinado pela área de programação, fico curioso só de pensar no que posso criar sempre que aprendo uma nova linguagem!
 
 ## Aqui vai um um pouco sobre min...
 
